@@ -1,0 +1,4 @@
+bokeh
+numpy
+scipy
+ipywidgets
